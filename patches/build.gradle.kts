@@ -2,12 +2,12 @@ group = "app.revanced"
 
 patches {
     about {
-        name = "ReVanced Patches"
-        description = "Patches for ReVanced"
-        source = "git@github.com:revanced/revanced-patches.git"
-        author = "ReVanced"
-        contact = "patches@revanced.app"
-        website = "https://revanced.app"
+        name = "Bakasura Patches"
+        description = "Emby patches for ReVanced"
+        source = "git@github.com:BakasuraRCE/bakasura-patches.git"
+        author = "BakasuraRCE"
+        contact = "https://github.com/BakasuraRCE"
+        website = "https://github.com/BakasuraRCE/bakasura-patches"
         license = "GNU General Public License v3.0"
     }
 }
